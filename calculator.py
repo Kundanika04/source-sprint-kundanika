@@ -8,6 +8,8 @@ elif(s=='/'):
     print(a/b)
 elif(s=='*'):
     print(a*b)
+elif(s=='^'):
+    print(pow(a,b))
 else:
     print("Enter the correct operator.\n")
 print("Thank you.\n")
