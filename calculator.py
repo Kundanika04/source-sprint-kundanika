@@ -11,3 +11,4 @@ elif(s=='*'):
 else:
     print("Enter the correct operator.\n")
 print("Thank you.\n")
+print("Final statement")
